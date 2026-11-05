@@ -37,9 +37,9 @@ per-book totals.
 
 ## Related
 
-- [r-theory-rewrite](https://github.com/cosbykit-afk/r-theory-rewrite) — the
+- [r-theory-rewrite](https://github.com/kitcosby/r-theory-rewrite) — the
   public intuition-first rewrite this audit work feeds.
-- [R-Theory](https://github.com/cosbykit-afk/R-Theory) — backup mirror.
+- [R-Theory](https://github.com/kitcosby/R-Theory) — backup mirror.
 
 ## License
 
